@@ -1,0 +1,41 @@
+body{
+width:960px;
+background-color: rgb(255, 230, 204);
+margin: 10px auto;
+border-style: solid;
+border-width: thick;
+border-color: rgb(255, 92, 51);
+font-family: Segoe Script;
+}
+
+h1{
+font-size: 60px;
+font-family: Snap ITC;
+color: rgb(255, 204, 0);
+border-bottom-style: solid;
+border-bottom-width: thick;
+border-bottom-color: rgb(255, 92, 51);
+margin-top: 3px;
+margin-bottom:3px;
+text-shadow: 3px 3px 10px red, -3px -3px 10px yellow;
+text-align: center;
+}
+
+h2{
+font-family: Snap ITC;
+text-align: center;
+border-width: medium;
+border-style: solid;
+border-color: rgb(230, 0, 0);
+margin-left: 250px;
+margin-right: 250px;
+}
+
+h3{
+font-family: Snap ITC;
+margin-left: 25px;
+margin-right: 25px;
+margin-bottom: 1px;
+margin-top: 1px;
+font-size: 20px;
+}
